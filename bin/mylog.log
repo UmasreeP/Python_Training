@@ -1,0 +1,10 @@
+INFO : 2025-02-07 12:06:44,587 : 39_about_logging.py : This is info
+DEBUG : 2025-02-07 12:06:44,587 : 39_about_logging.py : This message is for debug
+CRITICAL : 2025-02-07 12:06:44,588 : 39_about_logging.py : This is critical
+WARNING : 2025-02-07 12:06:44,588 : 39_about_logging.py : This is warning
+ERROR : 2025-02-07 12:06:44,588 : 39_about_logging.py : This is error
+INFO : 2025-02-07 12:06:44,588 : 39_about_logging.py : Reached try block
+INFO : 2025-02-07 12:06:44,588 : 39_about_logging.py : Opening File
+INFO : 2025-02-07 12:06:44,588 : 39_about_logging.py : Reached except block
+ERROR : 2025-02-07 12:06:44,588 : 39_about_logging.py : Got Error and Details: [Errno 2] No such file or directory: 'D:/sffdsfs/ejwje.txt'
+INFO : 2025-02-07 12:06:44,588 : 39_about_logging.py : End of except block
